@@ -3153,3 +3153,8 @@ textarea.w-select {
     grid-column-end: span 1;
   }
 }
+@media only screen and (max-width: 991px) {
+  .hero-image-box{
+    display:none;
+  }
+}
